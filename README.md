@@ -14,6 +14,6 @@ María Adelaida Suarez Restrepo - 1044503458
 
 #### Datos:
 
-En este notebook contiene el paso a paso de la analítica descriptiva realizada para obtener un dataset lo más limpios y balanceados posible.
+En este notebook contiene el paso a paso de la limpieza, transformación y analítica descriptiva sobre los datos.
 
 _Archivo_: `ME03 - G07 - [1053831053] - [1044503458].ipynb`

@@ -22,9 +22,7 @@ Esta carpeta contiene todo lo referente al momento evaluativo cuatro que son:
 
 #### Momentos evaluativos:
 
-##### Datos:
-
-En este notebook contiene el paso a paso de la limpieza, transformación y analítica descriptiva sobre los datos.
+Esta carpeta contiene los momentos evaluativos
 
 - ME01 - G07 - [1053831053] - [1044503458].docx`
 - ME02 - G07 - [1053831053] - [1044503458].docx

@@ -1,4 +1,4 @@
-# Predicción de accidentes con telemetría en transporte de carga
+# Telemetría en transporte terrestre, incidentes viales
 
 Este proyecto busca desarrollar un modelo predictivo con inteligencia artificial basado en datos de telemetría, para identificar y alertar sobre posibles accidentes viales en la flota de transporte primario.
 

@@ -17,8 +17,8 @@ María Adelaida Suarez Restrepo - 1044503458
 Esta carpeta contiene todo lo referente al momento evaluativo cuatro que son:
 
 - Avance inicial de la monografía: ME04 - G07 - [1053831053] - [1044503458].docx
-- Dataset de eventualida con incidencias: 01_data_analitycs_T1.ipynb
-- Script de código de análisis de datos: dataset_base.csv
+- Dataset de eventos con incidencias: dataset_base.csv
+- Script de código de análisis de datos: 01_data_analitycs_T1.ipynb
 
 #### Momentos evaluativos:
 

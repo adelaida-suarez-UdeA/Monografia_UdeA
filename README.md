@@ -26,5 +26,7 @@ Esta carpeta contiene todo lo referente al momento evaluativo cuatro que son:
 
 En este notebook contiene el paso a paso de la limpieza, transformación y analítica descriptiva sobre los datos.
 
-- Archivo_: `ME03 - G07 - [1053831053] - [1044503458].ipynb`
+- ME01 - G07 - [1053831053] - [1044503458].docx`
+- ME02 - G07 - [1053831053] - [1044503458].docx
+- Archivo_: `ME03 - G07 - [1053831053] - [1044503458].ipynb
 

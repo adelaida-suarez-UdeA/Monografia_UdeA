@@ -28,3 +28,4 @@ Esta carpeta contiene los momentos evaluativos
 - ME02 - G07 - [1053831053] - [1044503458].docx
 - Archivo_: `ME03 - G07 - [1053831053] - [1044503458].ipynb
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/repositorio/blob/main/archivo.ipynb)
